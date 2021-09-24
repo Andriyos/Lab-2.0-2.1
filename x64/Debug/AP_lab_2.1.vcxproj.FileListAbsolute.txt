@@ -1,0 +1,2 @@
+C:\Users\vipbo\source\repos\AP_lab_2.1\x64\Debug\AP_lab_2.1.exe
+C:\Users\vipbo\source\repos\AP_lab_2.1\x64\Debug\AP_lab_2.1.pdb

@@ -1,0 +1,6 @@
+﻿  AP_lab_2.1.cpp
+C:\Users\vipbo\source\repos\AP_lab_2.1\AP_lab_2.1.cpp(17,22): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\vipbo\source\repos\AP_lab_2.1\AP_lab_2.1.cpp(17,22): error C2146: syntax error: missing ')' before identifier '–'
+C:\Users\vipbo\source\repos\AP_lab_2.1\AP_lab_2.1.cpp(17,51): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\vipbo\source\repos\AP_lab_2.1\AP_lab_2.1.cpp(17,76): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\vipbo\source\repos\AP_lab_2.1\AP_lab_2.1.cpp(17,105): error C3873: '0x2013': this character is not allowed as a first character of an identifier
